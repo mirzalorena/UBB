@@ -21,4 +21,5 @@
 - [Probability and Statistics](https://github.com/mirzalorena/Probability-And-Statistics)
 
 ## Semester 4 :hourglass:
+- [Artificial Intelligence](https://github.com/mirzalorena/AI)
   
